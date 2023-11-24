@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 
 def main():
-    st.title('자동차 데이터 분석 ~!!!흑흑ㅎmrgmrgmr')
+    st.title('자동차 데이터 분석 ~!!!흑흑ㅎddmrgmrgmr')
     st.subheader('차트 보기')
     df =pd.read_csv('./data/fuel_econ.csv')
 
